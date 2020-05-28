@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+<style>
+ul
+{
+list-style-type:none;
+font-family:"Times New Roman, Times, serif";
+font-size:20px;
+}
+ol
+{
+font-size:20px;
+}
+li
+{
+display:inline;
+}
+a:hover
+{ 
+text-decoration: none; 
+}
+a
+{
+text-decoration:none;
+margin:10px;
+font-size:20px;
+text-indent:29px;
+font-family:"Times New Roman, Times, serif";
+}
+body
+{
+font-family:"Times New Roman";
+}
+img
+{
+margin-top:30px;
+}
+#s p, address
+{
+margin-top:10px;
+margin-bottom:30px;
+font-size:24px;
+}
+</style>
